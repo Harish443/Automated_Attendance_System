@@ -17,20 +17,8 @@ Flask
 OpenCV
 face_recognition
 
--You can install the required Python packages using the following command:
 
-bash
-Copy code
-pip install Flask opencv-python face_recognition
-Installation
-
--Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/face-recognition-attendance.git
-cd face-recognition-attendance
-
-File Structure
+**File Structure**
 
 app.py: Main Flask application file.
 templates/: HTML templates for web pages.
